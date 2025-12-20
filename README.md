@@ -14,10 +14,7 @@ We collect your email address solely for user identification and account managem
 
 ### Payment Information  
 We do **not** store sensitive payment information such as cardholder name, card number, or CVV.  
-All payment processing is securely handled by licensed third-party gateways:
-
-- [Paystack](https://paystack.com/ )
-- [Flutterwave](https://flutterwave.com/ng/) 
+All payment processing is securely handled by - [Google Billing]
 
 Please refer to their respective privacy policies for more details.
 
